@@ -1,3 +1,4 @@
+# wireguard debian9一键搭建自动多用户
 #!/bin/bash
 
 # https://www.wireguard.com/install/
